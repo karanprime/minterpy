@@ -41,7 +41,7 @@ we currently only provide the installation by self-building from source.
 We recommend to use `git` to get the `minterpy` source:
 
 ```bash
-git clone https://gitlab.hzdr.de/interpol/minterpy.git
+git clone https://github.com/casus/minterpy.git
 ```
 
 Within the source directory,
